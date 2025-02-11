@@ -11,22 +11,6 @@ The **Inventory & Reminder Management System** is designed to help businesses ef
 - ✔ **User-Friendly Interface** – Professional, minimalistic, and easy to navigate.
 - ✔ **Automated Notifications** – Alerts for repairs and stock updates.
 
----
-
-## 📂 Project Structure
-```
-Inventory-Reminder-System/
-│── src/                    # Core application logic
-│   ├── main/                # Main application components
-│   ├── ui/                  # User interface design and menus
-│   ├── database/            # Database connection and queries
-│── assets/                  # UI icons and images
-│── docs/                    # Documentation (Reports, Design, Testing)
-│── README.md                # Project overview and setup guide
-```
-
----
-
 ## 🏗️ Project Development Phases
 
 ### 1️⃣ Project Investigation
